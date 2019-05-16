@@ -6,3 +6,8 @@ A game influenced from flappy bird,in which mission is to move the bird in forwa
 # Technology used-
        - Unity 3d (game engine that supports open GL graphics library)
        - C# (for back end)    
+# Some images are shown below-
+![IMG_20190516_184435](https://user-images.githubusercontent.com/45414198/57857334-80f52180-780c-11e9-8476-9dd830faa536.jpg)
+
+![IMG_20190516_184407](https://user-images.githubusercontent.com/45414198/57857347-8bafb680-780c-11e9-8fda-ef04b2f7c0bf.jpg)
+![IMG_20190516_184421](https://user-images.githubusercontent.com/45414198/57857348-8c484d00-780c-11e9-927f-de6a3318a7f4.jpg)
