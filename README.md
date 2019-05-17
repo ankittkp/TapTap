@@ -5,7 +5,12 @@
 A game influenced from flappy bird,in which mission is to move the bird in forward direction in presence of gravity without being touching the cylindrical obstacles.While passing from each obstacle,one score will be incremented and the start screen will show the high score.
 # Technology used-
        - Unity 3d (game engine that supports open GL graphics library)
-       - C# (for back end)    
+       - C# (for back end)  
+# User instructions - 
+       - Download all files.
+       - Attach files to Unity3d.
+       - Load front_page.unity scene.
+       - Enjoy the game!!!!!!
 # Some images are shown below-
 ![IMG_20190516_184435](https://user-images.githubusercontent.com/45414198/57857334-80f52180-780c-11e9-8476-9dd830faa536.jpg)
 
